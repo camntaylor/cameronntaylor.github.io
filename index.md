@@ -10,4 +10,8 @@ Email: <cntaylor@stanford.edu>
 
 # Research
 
-[Education Project](./pdfs/educ.pdf)
+[Targeting Skills in Education Interventions](./pdfs/educ.pdf)
+
+Information Goods
+
+Fostering Children
