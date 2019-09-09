@@ -10,7 +10,7 @@ Email: <cntaylor@stanford.edu>
 
 [Targeting Skills in Education Interventions](./pdfs/educ.pdf)
 
-Information Goods
+[Information Goods](./pdfs/info_9_4_19.pdf)
 
 Fostering Children
 
@@ -21,9 +21,3 @@ Films 1960-2018 (In Progress)
 **Teaching**
 
 Stanford GSB Research Fellow Econometrics Bootcamp 2019 
-
-Slides
-* [Day1](./pdfs/bootcamp day 1 9-9.pdf)
-* [Day2](./pdfs/bootcamp day 2 8-10.pdf)
-* [Day3](./pdfs/bootcamp day 3 7-28.pdf)
-* [Day4](./pdfs/bootcamp day 4 9-9.pdf)
