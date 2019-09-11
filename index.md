@@ -10,7 +10,7 @@ Email: <cntaylor@stanford.edu>
 
 [Targeting Skills in Education Interventions](./pdfs/educ.pdf)
 
-[Information Goods](./pdfs/info_9_4_19.pdf)
+[Information Goods](./pdfs/info.pdf)
 
 Fostering Children
 
