@@ -19,6 +19,6 @@ Email: <cntaylor@stanford.edu>
 
 Films 1960-2018 (In Progress)
 
-**Teaching**
+# Teaching and Other Activities
 
 Stanford GSB Research Fellow Econometrics Bootcamp 2019 
