@@ -4,15 +4,19 @@ I am an economics PhD student at the Stanford Graduate School of Business. I stu
 
 Email: <cntaylor@stanford.edu>
 
+[CV](./pdfs/cntaylor_cv_2019.pdf)
+
 # Research
 
 **Working Papers**
 
-[Fostering Children]
+Fostering Children (draft coming soon)
 
 [Targeting Skills in Education Interventions](./pdfs/educ.pdf)
 
 [Information Goods](./pdfs/info.pdf)
+
+What Makes a Movie Great?
 
 
 **Data**
