@@ -1,6 +1,6 @@
 # About Me
 
-I am an economics PhD student at the Stanford Graduate School of Business. I study applied microeconomics with research interests in labor and market design. I am mainly interested in topics related to inequality and designing better policies that target inequality.
+I am an economics PhD student at the Stanford Graduate School of Business. My research interests are broadly in applied micro with specific interest in issues in market design and labor economics.
 
 Email: <cntaylor@stanford.edu>
 
