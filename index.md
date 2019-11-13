@@ -10,7 +10,7 @@ Email: <cntaylor@stanford.edu>
 
 **Working Papers**
 
-Fostering Children ([paper](./pdfs/foster.pdf); [slides](./pdfs/foster_slides.pdf))
+[Fostering Children](./pdfs/foster.pdf) ([slides](./pdfs/foster_slides.pdf))
 
 [Targeting Skills in Education Interventions](./pdfs/educ.pdf)
 
