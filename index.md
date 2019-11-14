@@ -18,6 +18,9 @@ Email: <cntaylor@stanford.edu>
 
 What Makes a Movie Great?
 
+**Shorter Pieces**
+
+[Machine Learning Cheatsheet](./pdfs/ml_cheat.pdf)
 
 **Data**
 
