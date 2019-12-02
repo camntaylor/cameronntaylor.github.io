@@ -6,6 +6,6 @@ author: Cameron Taylor
 permalink: /blog/
 ---
 
-Blog | (My Personal Website)[https://cameronntaylor.github.io/]
+Blog | [My Personal Website](https://cameronntaylor.github.io/)
 
 {% for post in site.blog %} {% include post.html %} {% endfor %}
