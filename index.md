@@ -61,6 +61,9 @@ What Makes a Movie Great?
 
 **Shorter Pieces**
 
+[Blog](./blog/a)
+I write about popular subject topics (mainly sports) using economics and statistics. 
+
 [Machine Learning Cheatsheet](./pdfs/ml_cheat.pdf)
 <details>
   <summary>Details</summary>
@@ -72,6 +75,7 @@ What Makes a Movie Great?
 **Data**
 
 Films 1960-2018 (In Progress)
+
 
 # Teaching and Other Activities
 
