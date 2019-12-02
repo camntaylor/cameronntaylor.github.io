@@ -1,5 +1,4 @@
 ---
-layout: blog
 collection: blog
 title:  "First Blog Post"
 date:   2019-12-02
