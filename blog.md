@@ -8,4 +8,6 @@ permalink: /blog/
 
 My Blog
 
+{% include base_path %}
+
 {% for post in site.blog %} {% include blog.html %} {% endfor %}
