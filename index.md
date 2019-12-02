@@ -61,7 +61,7 @@ What Makes a Movie Great?
 
 **Shorter Pieces**
 
-[Blog](./blog.md)
+[Blog](./blog)
 
 I write about popular subject topics (mainly sports) using economics and statistics. 
 
