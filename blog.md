@@ -7,3 +7,5 @@ permalink: /blog/
 ---
 
 My Blog
+
+{% for post in site.blog %} {% include blog.html %} {% endfor %}
