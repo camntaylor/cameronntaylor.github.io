@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Post
+permalink: /blog/first-post
 ---
 
 [Blog](https://cameronntaylor.github.io/blog/) | [Personal Website](https://cameronntaylor.github.io/)
