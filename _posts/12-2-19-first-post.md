@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Post
+tag: admin
 permalink: /blog/first-post
 ---
 
