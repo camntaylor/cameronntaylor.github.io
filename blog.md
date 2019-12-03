@@ -6,7 +6,7 @@ author: Cameron Taylor
 permalink: /blog/
 ---
 
-Blog | [My Personal Website](https://cameronntaylor.github.io/)
+[Blog](https://cameronntaylor.github.io/blog/) | [My Personal Website](https://cameronntaylor.github.io/)
 
 <div class="posts">
   {% for post in site.posts %}
