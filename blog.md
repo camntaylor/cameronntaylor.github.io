@@ -12,9 +12,9 @@ permalink: /blog/
   {% for post in site.posts reversed %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      By: {{post.author}}
-      <br>
       {{post.date}}
+      <br>
+      By: {{post.author}}
       <br>
       {{post.description}} 
       <br>
