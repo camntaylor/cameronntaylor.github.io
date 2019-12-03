@@ -2,6 +2,7 @@
 layout: post
 title: First Post
 tag: admin
+description: My first attempt at making a blog post.
 permalink: /blog/first-post
 ---
 
