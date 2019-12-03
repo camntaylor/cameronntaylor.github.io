@@ -9,7 +9,7 @@ permalink: /blog/
 [Blog](https://cameronntaylor.github.io/blog/) | [My Personal Website](https://cameronntaylor.github.io/)
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       {{post.description}} Tags: 
@@ -18,6 +18,7 @@ permalink: /blog/
         {{ post.excerpt }}
       </div> ---->
       <!--{{ post.tag }} -->
+      <br>
     </article>
   {% endfor %}
 </div>
