@@ -2,7 +2,7 @@
 layout: post
 title: College Football Bowl Predictions
 tag: college football, vegas, predictions 
-description: By Jackson and Cameron Taylor. We compare different publicly available prediction methods for college football bowl games.
+description: By Cameron Taylor and Jackson Taylor. We compare different publicly available prediction methods for college football bowl games.
 permalink: /blog/cfb-bowl-predict
 ---
 
