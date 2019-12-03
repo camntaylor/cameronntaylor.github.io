@@ -12,12 +12,19 @@ permalink: /blog/
   {% for post in site.posts reversed %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {{post.description}} Tags: 
-      {{post.tag}}
+      By: {{post.author}}
+      <br>
+      {{post.date}}
+      <br>
+      {{post.description}} 
+      <br>
+      Tags: {{post.tag}}
       <!----- <div class="entry">
         {{ post.excerpt }}
       </div> ---->
       <!--{{ post.tag }} -->
+      <br>
+      <br>
       <br>
     </article>
   {% endfor %}
