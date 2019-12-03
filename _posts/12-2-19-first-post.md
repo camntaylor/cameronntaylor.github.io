@@ -3,7 +3,7 @@ layout: post
 title: First Post
 tag: admin
 author: Cameron Taylor
-date: 12-2-19
+date: 2019-12-02
 description: My first attempt at making a blog post.
 permalink: /blog/first-post
 ---
