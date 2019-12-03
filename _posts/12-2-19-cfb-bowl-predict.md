@@ -3,7 +3,7 @@ layout: post
 title: College Football Bowl Predictions
 tag: college football
 author: Cameron Taylor and Jackson Taylor
-date: 12-2-19
+date: 2019-12-02
 description: We compare different publicly available prediction methods for college football bowl games.
 permalink: /blog/cfb-bowl-predict
 ---
