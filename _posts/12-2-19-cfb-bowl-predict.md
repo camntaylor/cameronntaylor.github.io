@@ -52,10 +52,10 @@ See Table 1 for a breakdown of each methods performance. Below we summarize what
 
 TABLE 1
 
-![alt text](https://github.com/cameronntaylor/cameronntaylor.github.io/tree/master/images/cfb_table1.png "Table 1")
+![alt text](../images/cfb_table1.png)
 
 
-| Bowl | Team 1 | Team 2 | Margin | Vegas | ESPN | S&amp;P+ |
+<!--- | Bowl | Team 1 | Team 2 | Margin | Vegas | ESPN | S&amp;P+ |
 | --- | --- | --- | --- | --- | --- | --- |
 | _Armed Forces Bowl_ | Houston | Army | 56 | 29 | 25 | 32 |
 | _Music City Bowl_ | Purdue | Auburn | 49 | 17 | 19 | 23 |
@@ -96,7 +96,7 @@ TABLE 1
 | _Celebration Bowl_ | NC A&amp;T | Alcorn State | 2 | 34 | 14 | 1 |
 | _Alamo Bowl_ | Iowa State | Wash St | 2 | 11 | 24 | 28 |
 | _Sun Bowl_ | Stanford | Pitt | 1 | 18 | 36 | 33 |
-| _Redbox Bowl_ | Michigan St | Oregon | 1 | 1 | 17 | 11 |
+| _Redbox Bowl_ | Michigan St | Oregon | 1 | 1 | 17 | 11 | --->
 
 The overall scores tell a pretty remarkable story. Table 2 gives the overall scores and the percentile results from following these methods. The number 1 reported entry in ESPN received 718 total points. 482 points is good enough for about 68th percentile among all Bowl Mania players; 473 points is about 63rd percentile; and 396 points is about 25th percentile. Thus, it seems that Vegas and ESPN do quite good and do better than the average entry. Vegas gets the slight edge over ESPN, but it was close. For example. If Alcorn State had ended up beating NC A&amp;T (loss by 2 points!) then ESPN would have outperformed Vegas by almost 40 points.
 
