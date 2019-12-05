@@ -53,6 +53,7 @@ See Table 1 for a breakdown of each methods performance. Below we summarize what
 TABLE 1
 
 ![alt text](../images/cfb_table1.png)
+
 <sub> Table 1 Key: Green indicates winning team and correct pick. Red indicates incorrect pick. Number values in method columns are assigned confidence points.</sub>
 
 
@@ -121,6 +122,6 @@ While it might make sense to go with Vegas or ESPN if you are aiming to maximize
 
 Supplementary Figures
 
-<sub>Footnotes:
+Footnotes:
 
-<sup>1</sup>:To be fair to the S&amp;P+ rating method, this is not what is suggested for bowl picks nor is it suggested as any means of predicting games. It is our interpretation of the S&amp;P+ method. However, these predictions align almost exactly with the S&amp;P+ spread picks (link to page has been removed), which is more coarse and so the method we use essentially acts as a reasonable tie-breaker for using the spread picks. However, no pick was given for the national championship, and for this we use the S&amp;P+ rating method.</sub>
+<sub><sup>1</sup>:To be fair to the S&amp;P+ rating method, this is not what is suggested for bowl picks nor is it suggested as any means of predicting games. It is our interpretation of the S&amp;P+ method. However, these predictions align almost exactly with the S&amp;P+ spread picks (link to page has been removed), which is more coarse and so the method we use essentially acts as a reasonable tie-breaker for using the spread picks. However, no pick was given for the national championship, and for this we use the S&amp;P+ rating method.</sub>
