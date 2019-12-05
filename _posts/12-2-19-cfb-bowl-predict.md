@@ -118,10 +118,19 @@ While it might make sense to go with Vegas or ESPN if you are aiming to maximize
 
 <sub> Some final methodological notes: Note that these &quot;picking methods&quot; should be seen as an upper-bound on how well you could have done by using these methods. This is because the Vegas and ESPN methods are updated up to the beginning of the game. Since there is a confidence point assignment, one might not properly pick confidence dynamically. The picking methodology used assumes that everyone knows the realized confidences from Vegas and ESPN that are presented. Also, I could not find S&amp;P+ for Alcorn State and North Carolina so I assigned confidence 1 to this pick and gave it to S&amp;P+. I also needed to break ties since my method for Vegas had quite a few ties (multiple games had teams favored by 6.5 points, etc. for the spread). I break ties _in favor_ of the methods (i.e. give them the most points) to give a true upper bound. </sub>
 
-
-
-Supplementary Figures
-
 Footnotes:
 
 <sub><sup>1</sup>:To be fair to the S&amp;P+ rating method, this is not what is suggested for bowl picks nor is it suggested as any means of predicting games. It is our interpretation of the S&amp;P+ method. However, these predictions align almost exactly with the S&amp;P+ spread picks (link to page has been removed), which is more coarse and so the method we use essentially acts as a reasonable tie-breaker for using the spread picks. However, no pick was given for the national championship, and for this we use the S&amp;P+ rating method.</sub>
+
+
+Supplementary Figures:
+
+![alt text](../images/cfb_supp1.png)
+
+![alt text](../images/cfb_supp2.png)
+
+![alt text](../images/cfb_supp3.png)
+
+![alt text](../images/cfb_supp4.png)
+
+
