@@ -52,6 +52,9 @@ See Table 1 for a breakdown of each methods performance. Below we summarize what
 
 TABLE 1
 
+![alt text](https://github.com/cameronntaylor/cameronntaylor.github.io/tree/master/images/cfb_table1.png "Table 1")
+
+
 | Bowl | Team 1 | Team 2 | Margin | Vegas | ESPN | S&amp;P+ |
 | --- | --- | --- | --- | --- | --- | --- |
 | _Armed Forces Bowl_ | Houston | Army | 56 | 29 | 25 | 32 |
