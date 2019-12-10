@@ -82,4 +82,4 @@ Films 1960-2018 (In Progress)
 
 Stanford GSB Research Fellow Econometrics Bootcamp 2019 (1 week bootcamp on econometric methods)
 
-Course Assistant MGTECON 603 Econometrics Methods I Fall 2019 (PhD course on statistical foundations of econometrics)
+Course Assistant MGTECON 603 Econometrics Methods I Fall 2019 (PhD course on statistical foundations of econometrics) [Section Notes](./pdfs/section_notes.pdf)
