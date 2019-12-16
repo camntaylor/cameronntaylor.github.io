@@ -9,7 +9,7 @@ permalink: /blog/
 [Blog](https://cameronntaylor.github.io/blog/) | [My Personal Website](https://cameronntaylor.github.io/)
 
 <div class="posts">
-  {% for post in site.posts reversed %}
+  {% for post in site.posts %}
     <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.date | date: "%B %e, %Y" }}
