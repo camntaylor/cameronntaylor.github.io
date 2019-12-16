@@ -15,7 +15,7 @@ Conceptually, the reason why conferences could be important in bowls is that all
 
 Table 1 below shows the conference participation of bowls in 2018-2019, including the number of games they played in, the percentage of those games that Vegas got correct and the percentage of those games that at least one of the three methods we considered (Vegas, ESPN, S&amp;P+) got correct, which we call the MAX method.
 
-        Table 1
+   Table 1
 
 | **Conferences** | **# Games** | **Vegas %** | **MAX %** |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Table 1 below shows the conference participation of bowls in 2018-2019, includin
 | Independent | 3 | 100% | 100% |
 | Mountain West | 5 | 100% | 100% |
 
-                Source: VegasInsider.com, ESPN Capital One Bowl Mania
+   Source: VegasInsider.com, ESPN Capital One Bowl Mania
 
 
 
@@ -41,7 +41,7 @@ The inability of Vegas to predict these games suggests it may be worth shedding 
 
 What kinds of mistakes are being made within these bowl game picks? In particular, are they just random errors, or are contestants seemingly over or under-weighting the abilities of certain conferences? If there are systematic &quot;mistakes&quot;, prediction methods could institute simple fixes to conventional methods to improve. One way to get evidence on this is to look at all the wrong picks for each conference and see in which &quot;direction&quot; was the pick wrong – i.e. did the pick go against the Big 10 when it should have been for, etc.
 
-Table 2
+   Table 2
 
 | **Conferences** | **Wrong For** | **Wrong Against** | **Total Wrong** |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Table 2
 | Big 10 | 3 | 4 | 7 |
 | SEC | 6 | 2 | 8 |
 
-        Source: VegasInsider.com, ESPN Capital One Bowl Mania
+   Source: VegasInsider.com, ESPN Capital One Bowl Mania
 
 
 
@@ -61,7 +61,7 @@ Another reason could be that because the power 5 conferences have more prospecti
 
 Table 3 below shows the number of notable teams with players sitting out and number of total players sitting out bowl games for non-medical reasons by conference. Clearly the power 5 conference teams have many more teams and players sitting out. Interestingly, the Big 10 has the most teams affected.
 
-Table 3
+  Table 3
 
 | **Conferences** | **Number of Teams with Players Sitting Out** | **Number of Players Sitting Out** |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ Table 3
 | Mountain West | 0 | 0 |
 | MAC | 0 | 0 |
 
-        Source: [Yahoo! Sports](https://sports.yahoo.com/college-football-players-sitting-bowl-games-2018-210123415.html).
+   Source: [Yahoo! Sports](https://sports.yahoo.com/college-football-players-sitting-bowl-games-2018-210123415.html).
 
 While players sitting out could explain the general trend that 4 of the bottom power 5 conferences have below average prediction rates, and why the Big 10 is particularly challenging to predict, the numbers do not suggest an explanation for why the Big 10 and the SEC are so much more challenging than the Big 12 and the Pac 12 to predict. However, sitting out bowl games could still be an important explaining factor in general for why power 5 conference games seem more difficult to predict than other games.
 
