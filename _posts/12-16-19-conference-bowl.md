@@ -8,6 +8,7 @@ description: I assess whether team conference can improve predicting college foo
 permalink: /blog/conference-bowls
 ---
 
+[Blog](https://cameronntaylor.github.io/blog/) | [My Personal Website](https://cameronntaylor.github.io/)
 
 Predicting the outcomes of college football bowl games is hard. In a [previous piece](https://cameronntaylor.github.io/blog/cfb-bowl-predict) we compared the prediction methods of the average contestant on [ESPN&#39;s Bowl Mania](http://fantasy.espn.com/college-bowl-mania/2019/en/) to picking strategies that simply utilize publicly available information from sources such as Vegas. We found that using these methods results in predicting the winner correctly somewhere between 50 and 60% of the time. While these are decent percentages of picking, there is clearly a lot of room left for improving picks upon using these methods. Is it possible to improve picking methods by using information about the conferences of the teams playing?
 
