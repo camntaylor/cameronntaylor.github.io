@@ -1,6 +1,6 @@
 ---
 layout: post
-title: College Football Bowl Predictions
+title: Why Not Just Use Vegas To Predict Bowl Games?
 tag: college football
 author: Cameron Taylor and Jackson Taylor
 date: 2019-12-02
