@@ -10,4 +10,4 @@ permalink: /blog/first-post
 
 [Blog](https://cameronntaylor.github.io/blog/) | [My Personal Website](https://cameronntaylor.github.io/)
 
-This is my blog post!
+The plan for my blog is to use a mixture of economics, statistics and general data science to address popular topic subjects in a shorter more casual setting.
