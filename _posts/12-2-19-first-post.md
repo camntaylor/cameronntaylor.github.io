@@ -4,7 +4,7 @@ title: First Post
 tag: admin
 author: Cameron Taylor
 date: 2019-12-01
-description: My first attempt at making a blog post.
+description: The plan for my blog is to use a mixture of economics, statistics and general data science to address popular topic subjects in a shorter more casual setting.
 permalink: /blog/first-post
 ---
 
