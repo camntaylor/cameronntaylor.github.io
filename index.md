@@ -10,7 +10,7 @@ Email: <cntaylor@stanford.edu>
 
 **Working Papers**
 
-[Fostering Children](./pdfs/foster.pdf) ([slides](./pdfs/foster_slides.pdf))
+[Fostering Children](./pdfs/foster.pdf) ([slides](./pdfs/foster_slides.pdf)) ([non-technical summary](./pdfs/foster-non-tech.pdf))
 
  <details>
    <summary>Abstract</summary>
