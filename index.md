@@ -1,6 +1,6 @@
 # About Me
 
-I am an economics PhD student at the Stanford Graduate School of Business. My research interests are broadly in applied microeconomics with specific interest in issues in market design and labor economics.
+I am an economics PhD student at the Stanford Graduate School of Business. My research interests are broadly in applied microeconomics with specific interest in labor economics including inequality, education and child welfare.
 
 Email: <cntaylor@stanford.edu>
 
@@ -25,7 +25,7 @@ predictions find strong support in the data through instrumental variable strate
 model is able to rationalize many of the motivating facts. A simple form of the model is
 jointly estimated to more directly compare and quantify the mechanisms. Sending the price of
 biological children to infinity induces four times more foster families while sending the time
-cost of foster children to 0 induces 50% more families families. The model and data suggest
+cost of foster children to 0 induces 50% more families. The model and data suggest
 that foster children are not perfect substitutes for biological children. Alternative theories are
 discussed in the context of the data and empirical results.
  </details>
