@@ -71,7 +71,9 @@ I write about popular subject topics (mainly sports) using economics and statist
   A machine learning cheatsheet to de-mystify some major machine learning methods for those with intermediate statistics and econometrics backgrounds. Also useful as a condensed reference for high-level overview of the methods.
 </details>
 
-[NFL Deep Learning Project](./pdfs/final_report.pdf) ([poster](./pdfs/final_poster.pdf))
+<br/><br/>
+
+[NFL Deep Learning Project](./pdfs/final_report.pdf) ([poster](./pdfs/poster_final.pdf))
 <details>
   <summary>Details</summary>
   Project using NFL pre-play image and situational data with convolutional neural networks and transfer learning to predict play outcomes including yards gained and offensive play call. 
