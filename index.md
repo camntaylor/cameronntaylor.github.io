@@ -71,6 +71,13 @@ I write about popular subject topics (mainly sports) using economics and statist
   A machine learning cheatsheet to de-mystify some major machine learning methods for those with intermediate statistics and econometrics backgrounds. Also useful as a condensed reference for high-level overview of the methods.
 </details>
 
+[NFL Deep Learning Project](./pdfs/final_report.pdf) ([poster](./pdfs/final_poster.pdf))
+<details>
+  <summary>Details</summary>
+  Project using NFL pre-play image and situational data with convolutional neural networks and transfer learning to predict play outcomes including yards gained and offensive play call. 
+</details>
+
+
 <br/><br/>
 
 **Data**
@@ -83,3 +90,5 @@ Films 1960-2018 (In Progress)
 Stanford GSB Research Fellow Econometrics Bootcamp 2019 (1 week bootcamp on econometric methods)
 
 Course Assistant MGTECON 603 Econometrics Methods I Fall 2019 (PhD course on statistical foundations of econometrics) [Section Notes](./pdfs/section_notes.pdf)
+
+Course Assistant HRMGT 302 Incentives and Productivity (MBA advanced economics)
