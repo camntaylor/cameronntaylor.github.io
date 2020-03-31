@@ -32,11 +32,11 @@ discussed in the context of the data and empirical results.
  
  <br/><br/>
 
-[Targeting Skills in Education Interventions](./pdfs/educ.pdf)
+[Skill Ladders](./pdfs/educ.pdf)
 
 <details>
   <summary>Abstract</summary>
-In this paper I explore optimal investments in basic and advanced skills in education interventions. I analyze two closely related and plausible models and show that the policy implications starkly differ between them. I apply my results to interpret the existing empirical evidence on education interventions. I show that my model suggests a “sufficient statistic” approach to guiding skill-targeting in education policy. I then develop a methodology to utilize this approach and apply it to mathematics (advanced skill) and self-esteem (basic skill) in the NLSY. The results show that the returns to skill likely reflect that the true state of the world is likely between the two stark viewpoints.
+This paper presents a model of skills and derives properties of the optimal investment into educational skills. In the model students can acquire basic and advanced skills at a cost to a policymaker who is budget-constrained. The optimal policy is very sensitive to the structure of the returns to skill - even when advanced skills give unbounded marginal returns, it may be optimal to invest more in basic skills if skills represent a ``skill ladder''. These results offer new interpretations on the existing empirical evidence on education interventions. There is a single object that determines whether to invest more in basic or advanced skills and whether the skill ladder model applies. I develop a methodology to estimate the returns to skills and this object and apply it to mathematics (advanced skill) and self-esteem (basic skill) in the NLSY. The results show that the returns to skill reflect that the true state of the world is between the two stark viewpoints and that there is substantial racial heterogeneity in the returns to skills from the lens of the model, suggesting that there may be benefits to focusing more on basic skills in educational policy making and that optimal skill targeting may differ by race.  
 </details>
 
 <br/><br/>
@@ -45,7 +45,7 @@ In this paper I explore optimal investments in basic and advanced skills in educ
 
 <details>
   <summary>Abstract</summary>
-  I analyze a stylized model of information acquisition that treats each dimension of the state space as a distinct information good with a cost. I characterize when information sources are substittues and complements and show how adding costs provides new insights into how economic agents pick where they get information. I apply this model to a firm recruiting example to show how it produces new insights into information demand and the literature surrounding labor-replacing technology.
+The main goal of this paper is to understand how people will change their information acquisition strategies as information sources become more or less costly. To do this, I develop a model of information acquisition in the spirit of traditional consumer theory that treats information sources, which are distinct dimensions of the state space, as different consumption goods. A general form of the model shows that as information becomes more costly, people will demand less of it, and also characterizes when information sources are substitutes or complements. The models insights are extensively analyzed in two settings: determining the optimal firm recruiting strategy when considering technical and social skills, and determining the optimal way to evaluate students using testing and assessing creativity. Other insights into dating and media consumption are also discussed.
 </details>
 
 <br/><br/>
